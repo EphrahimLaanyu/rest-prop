@@ -132,7 +132,7 @@ export default function InsideLanding() {
               <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></div>
             </div>
             <div className="text-left">
-              <span className="block font-display font-bold text-lg text-gray-900">Concierge</span>
+              <span className="block font-display font-bold text-lg text-gray-900">Call Waiter</span>
               <span className="text-xs text-gray-400 font-medium">Call for assistance</span>
             </div>
           </button>
