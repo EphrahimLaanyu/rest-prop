@@ -7,7 +7,7 @@ import { useNavigate } from 'react-router-dom';
 import { Toaster, toast } from 'react-hot-toast';
 
 // IMPORT MENU DATA
-import { MENU_ITEMS, MENU_CATEGORIES } from '../data/menu';
+import { MENU_ITEMS, MENU_CATEGORIES } from '../data/Menu';
 
 // --- FLOOR PLAN DATA ---
 const FLOOR_GRID = [
